@@ -1,5 +1,5 @@
 # Image-Scraper
-Python script for scraping images from Google
+Python script for scraping images from Google.
 
 This script scrapes images from google. 
 Approx 350 images will be saved in a separte folder. 
